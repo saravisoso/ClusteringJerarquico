@@ -4,6 +4,7 @@ Juan Jesús Rodríguez Martínez  - 195083
 Sara Visoso Gunther - 196079
 
 Profesor: Simón Lunagomez Coria \
+Materia: Estadística Aplicada III
 Instituto Tecnológico Autónomo de México
 
 ## Clustering Jerárquico
