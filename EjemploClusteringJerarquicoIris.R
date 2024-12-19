@@ -1,4 +1,6 @@
 load("iris.rda")
+#Los datos irirs tienen 150 observaciones
+#Las variables son: sepal.length, sepal.width, petal.length y petal.width
 # Eliminar la columna "type" que no aporta información numérica
 iris_num <- iris[, -which(names(iris) == "type")]
 
