@@ -1,9 +1,9 @@
 # Algoritmos de Clustering Jerárquico
-Proyecto final de Estadística Aplicada III. 
-Juan Jesús Rodríguez Martínez  - 195083
+Proyecto final de Estadística Aplicada III. \
+Juan Jesús Rodríguez Martínez  - 195083     
 Sara Visoso Gunther - 196079
 
-Profesor: Simón Lunagomez Coria
+Profesor: Simón Lunagomez Coria \
 Instituto Tecnológico Autónomo de México
 
 ## Clustering Jerárquico
